@@ -2028,22 +2028,18 @@
         "blocks": {}
     },
     {
-        "name": "Cat",
+        "name": "Tower",
         "tags": [
-            "animals",
-            "cat",
-            "kitten",
-            "kitty",
-            "mammal",
-            "orange",
-            "scratch cat"
+            "building",
+            "lego",
+            "toys"
         ],
         "isStage": false,
         "variables": {},
         "costumes": [
             {
                 "assetId": "bcf454acf82e4504149f7ffe07081dbc",
-                "name": "cat-a",
+                "name": "tower-a",
                 "bitmapResolution": 1,
                 "md5ext": "bcf454acf82e4504149f7ffe07081dbc.svg",
                 "dataFormat": "svg",
@@ -2052,7 +2048,7 @@
             },
             {
                 "assetId": "0fb9be3e8397c983338cb71dc84d0b25",
-                "name": "cat-b",
+                "name": "tower-b",
                 "bitmapResolution": 1,
                 "md5ext": "0fb9be3e8397c983338cb71dc84d0b25.svg",
                 "dataFormat": "svg",
@@ -2062,13 +2058,13 @@
         ],
         "sounds": [
             {
-                "assetId": "83c36d806dc92327b9e7049a565c6bff",
-                "name": "Meow",
+                "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+                "name": "pop",
                 "dataFormat": "wav",
                 "format": "",
                 "rate": 44100,
                 "sampleCount": 37376,
-                "md5ext": "83c36d806dc92327b9e7049a565c6bff.wav"
+                "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
             }
         ],
         "blocks": {}
