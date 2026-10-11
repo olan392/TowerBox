@@ -1693,15 +1693,11 @@
         "rotationCenterY": 46
     },
     {
-        "name": "Cat-a",
+        "name": "Tower-a",
         "tags": [
-            "animals",
-            "cat",
-            "kitten",
-            "kitty",
-            "mammal",
-            "orange",
-            "scratch cat"
+            "building",
+            "lego",
+            "toys"
         ],
         "assetId": "bcf454acf82e4504149f7ffe07081dbc",
         "bitmapResolution": 1,
@@ -1711,15 +1707,11 @@
         "rotationCenterY": 50
     },
     {
-        "name": "Cat-b",
+        "name": "Tower-b",
         "tags": [
-            "animals",
-            "cat",
-            "kitten",
-            "kitty",
-            "mammal",
-            "orange",
-            "scratch cat"
+            "building",
+            "lego",
+            "toys"
         ],
         "assetId": "0fb9be3e8397c983338cb71dc84d0b25",
         "bitmapResolution": 1,
